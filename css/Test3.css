@@ -20,3 +20,6 @@ font-family: arial;
 color: #fff;
 border: none;
 }
+ul li a:hover {
+color: #BC8F8F;
+}
